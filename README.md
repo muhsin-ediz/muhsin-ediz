@@ -1,5 +1,5 @@
 [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4rVIlBWMm1X1V4VzDOjWKS8mDLw6xxlg5YETHrZnxkEX8ngnmX8AMhmTTCuwJmW_7GnqXtVI1ShKky9UsTUM1GaLZktW49f6DLIKN4Z3UbanvgKrob_MEN2mE3F5CvdUrtZZQd1tWmVI/s1600/DJ_Kedi_02_Muzikliste.gif)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm muhsin ediz</h1>
 <h3 align="center">A passionate frontend developer from türkiye</h3>
 
