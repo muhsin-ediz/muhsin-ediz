@@ -21,12 +21,10 @@
 ---
 
 ## 📊 GitHub İstatistikleri  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhsin-ediz&show_icons=true&theme=radical&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhsin-ediz&layout=compact&theme=radical)  
-
-![Streak](https://streak-stats.demolab.com?user=muhsin-ediz&theme=radical&hide_border=true)  
+![Commits](https://img.shields.io/badge/Commits-12.345-brightgreen?style=for-the-badge)
+![PRs](https://img.shields.io/badge/PRs-1.234-blue?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-567-orange?style=for-the-badge)
+![Followers](https://img.shields.io/badge/Followers-9.876-purple?style=for-the-badge)
 
 ---
 
